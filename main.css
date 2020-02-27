@@ -81,48 +81,47 @@ p {
 }
 
 .imageSection {
-    width: 100%;
-
+  width: 100%;
 }
 
 .imageSectionWrapper {
-    width: 80%;
-    margin: auto;
-    display block;
-    height: 800px;
-    background-image: url(images/david-henrichs-399195.jpg);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    position: relative;
+  width: 80%;
+  margin: auto;
+  display: block;
+  height: 800px;
+  background-image: url(images/david-henrichs-399195.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
 }
 
 .blogPostInfo {
-    position: absolute;
-    bottom: 0;
+  position: absolute;
+  bottom: 0;
 }
 
 .imageSectionWrapper h1 {
-    color: white;
-    background-color: #1c2329;
-    width: 600px;
-    padding: 0.25em;
-    text-align: center;
-    opacity: 0.97;
-    border-radius: 2px;
-    margin: 0 0 20px -60px;
+  color: white;
+  background-color: #1c2329;
+  width: 600px;
+  padding: 0.25em;
+  text-align: center;
+  opacity: 0.97;
+  border-radius: 2px;
+  margin: 0 0 20px -60px;
 }
 
 .info {
-    color: white;
-    background-color: #1c2329;
-    width: 600px;
-    opacity: 0.97;
-    border-radius: 2px;
-    margin: 0 0 40px -30px;
-    padding: 0.25em 0.25em 0.25em 3em;
+  color: white;
+  background-color: #1c2329;
+  width: 600px;
+  opacity: 0.97;
+  border-radius: 2px;
+  margin: 0 0 40px -30px;
+  padding: 0.25em 0.25em 0.25em 3em;
 }
 
 .info p {
-    margin: 15px 0;
+  margin: 15px 0;
 }
