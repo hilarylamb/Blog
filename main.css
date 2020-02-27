@@ -54,4 +54,28 @@ p {
 
 .menu,
 .search {
+  display: flex;
+  align-items: center;
+}
+
+.menu img {
+  margin-left: 10px;
+}
+
+.menu p,
+.search p {
+  color: #65747e;
+  font-size: 26px;
+}
+
+.menu {
+  margin-left: 50px;
+}
+
+.search {
+  margin-right: 50px;
+}
+
+.navIcon {
+  margin-right: 30px;
 }
